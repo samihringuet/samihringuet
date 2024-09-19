@@ -6,6 +6,8 @@ Passionné par la tech depuis longtemps, j'ai toujours eu un intérêt pour cet 
 N'hésite pas à explorer mes projets et à me contacter pour échanger ou collaborer ! 🚀
 
 ___
+
+
 <div width="1000" >
   <a href="https://github.com/samihringuet/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihringuet&layout=donut&theme=aura_dark&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
