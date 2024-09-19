@@ -11,7 +11,8 @@
 
 
 ---
-Passionné par la tech depuis longtemps, j'ai toujours eu un intérêt pour cet univer 💾 ! Je ne me suis mis au code que récemment après avoir suivi un bootcamp de développement à la Wild Code School 🐈 . Depuis, je suis tombé amoureux du processus de création et de résolution de problèmes à travers le code. Je suis animé par la soif d'apprendre, partager mes connaissances et travailler avec d'autres passionnés 🚀. Mon parcours ne fait que commencer, et je suis impatient de collaborer sur de nouveaux projets, d'explorer des technologies et de continuer à progresser 📈.
+Passionné par la tech depuis longtemps, j'ai toujours eu un intérêt pour cet univer 💾 ! Je ne me suis mis au code que récemment après avoir suivi un bootcamp de développement à la Wild Code School 🐈 .
+Depuis, je suis tombé amoureux du processus de création et de résolution de problèmes à travers le code. Je suis animé par la soif d'apprendre, partager mes connaissances et travailler avec d'autres passionnés 🚀. Mon parcours ne fait que commencer, et je suis impatient de collaborer sur de nouveaux projets, d'explorer des technologies et de continuer à progresser 📈.
 
 N'hésite pas à explorer mes projets et à me contacter pour échanger ou collaborer ! 💣
 
