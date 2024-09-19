@@ -1,6 +1,11 @@
-## Hi there 👋
+## About me 👋
 
-salut la team
+Salut, je m'appelle Samih ! 👋
+Passionné par la tech depuis longtemps, j'ai toujours eu un intérêt pour cet univers, même si je ne me suis mis au code que récemment après avoir suivi un bootcamp de développement à la Wild Code School. Depuis, je suis tombé amoureux du processus de création et de résolution de problèmes à travers le code. Je suis animé par la soif d'apprendre, partager mes connaissances et travailler avec d'autres passionnés. Mon parcours ne fait que commencer, et je suis impatient de collaborer sur de nouveaux projets, d'explorer des technologies et de continuer à progresser.
+
+N'hésite pas à explorer mes projets et à me contacter pour échanger ou collaborer ! 🚀
+
+___
 <div width="1000" >
   <a href="https://github.com/samihringuet/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihringuet&layout=donut&theme=aura_dark&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
