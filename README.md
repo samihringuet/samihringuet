@@ -1,3 +1,5 @@
+#  ![cover](https://github.com/samihringuet/samihringuet/blob/main/bannersam.png)
+
 ## About me 👋
 
 Salut, je m'appelle Samih ! 👋
