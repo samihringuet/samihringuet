@@ -69,7 +69,7 @@ ___
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=samihringuet&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 48%; height: 220px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihringuet&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 52%; height: 220px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihringuet&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 50%; height: 210px;"/>
 </div>
 
 <p align="center">
