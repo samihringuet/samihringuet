@@ -39,7 +39,7 @@ ___
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" width="100" height="35" style="margin-right: 10px;"/>
 </p>
 
-
+In progress : Next.js, typescript , Django
 
 ## 📋 Méthodologies de Travail
 
